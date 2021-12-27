@@ -20,4 +20,5 @@ Balanced Accuracy Scores for all 6 Models:
 
 ## Summary:
 Out of the 4 resampling models, the randomoversampler model performed the best. Out of the 2 ensemble models, both the balancedrandomforestclassifier and adaboostclassifier models performed the same. Overall the 2 ensemble models performed the best with a balanced accuracy score of 0.8017.
+I would not reccomend any of these models because every one of these models had extremley low precision scores of 3% or lower when predicting whether a loan is highrisk. 
 
