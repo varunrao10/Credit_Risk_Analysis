@@ -3,6 +3,7 @@
 
 ### Module 17 Credit Risk Analysis
 **Deliverable1-2:** [resampling](credit_risk_resampling.ipynb) 
+
 **Deliverable3:** [ensemble](credit_risk_ensemble.ipynb) 
 
 ## Overview of Credit_Risk_Analysis:
