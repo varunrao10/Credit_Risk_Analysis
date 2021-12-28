@@ -1,5 +1,5 @@
 # Credit_Risk_Analysis
- Machine Learning
+ Supervised Machine Learning
 
 ### Module 17 Credit Risk Analysis
 **Deliverable1-2:** [resampling](credit_risk_resampling.ipynb) 
